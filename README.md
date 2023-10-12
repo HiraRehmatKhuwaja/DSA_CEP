@@ -6,6 +6,7 @@ Choosen SDG "Good Health and WellBeings"
 " This dataset is like a report card for hospitals that are part of a program to improvethe quality of healthcare. It tells you how well each hospital is doing in providingpreventive care, which means taking steps to keep patients healthy and catchproblems early. The report includes details like the hospital’s name, address, and location. It alsohas ratings and scores that show how good the hospital is at following recommended procedures to prevent health issues. These scores can help people like government officials and healthcare professionals see which hospitals are doing well and where there might be room for improvement in preventive care services. In simple terms, it’s a way to check how hospitals are doing when it comes to keepingpeople healthy"
 ### language 
 Phython 
+### version 3.10.12
 ### Libraries 
 1.Pandas
 2.seaborn
@@ -18,6 +19,9 @@ Phython
 9.KMeans
 10.PCA
 11.RandomForestRegressor
+### Information About Colums
+<img width="1207" alt="Screenshot 2023-10-12 100301" src="https://github.com/HiraRehmatKhuwaja/DSA_CEP/assets/94304187/cbcc5739-599e-4c8c-a892-efa1681b24a7">
+
 ### Project Members 
 1.Ambar Arain [Github](https://github.com/Ambar-Ghaffar)
 
